@@ -51,7 +51,7 @@ ezplex-enabled="true" OR ezplex-enabled="false"
 
 (1) ezplex-direction="-" // By default it's set to minus. minus = y-position downwards and plus = y-position upwards <br />
 (2) ezplex-speed="10" // By default it's set to 10. <br />
-(3) ezplex-xpos="left" // By default it will take current x-position of background. ezplex-xpos takes values in persantage, pixels and string. eg. "50%", "200px" OR "center". <br />
+(3) ezplex-xpos="left" // By default it will take current x-position of background. ezplex-xpos takes values in persantage, pixels and string. eg. "50%", "200px", "center". <br />
 
 <b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Parallax Demo</a></b>(Not Responsive)
 
