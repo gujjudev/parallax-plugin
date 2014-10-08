@@ -28,7 +28,7 @@ Following is the sample css. Change your own css as per the requirement. With he
 
 Include the <b>"ezplex"</b> reference
 
-	<script src="js/ezplex.js"></script>
+	<script src="js/ezplex.min.js"></script>
 	<script>
 		$(document).ready(function(){
 			$('body').ezplex();
