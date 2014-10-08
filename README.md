@@ -53,7 +53,7 @@ ezplex-enabled="true" OR ezplex-enabled="false"
 (2) ezplex-speed="10" // By default it's set to 10. <br />
 (3) ezplex-xpos="left" // By default it will take current x-position of background. ezplex-xpos takes values in persantage, pixels and string. eg. "50%", "200px" OR "center". <br />
 
-<b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Parallax Demo</a></b>
+<b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Parallax Demo</a></b>(Not Responsive)
 
 Any suggestions or comments are highly appreciated
 
