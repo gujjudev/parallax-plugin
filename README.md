@@ -45,15 +45,15 @@ All the Attributes are optional but one attribute is required
 
 <b><u>Required</u></b>
 
-parallax-enabled="true" OR parallax-enabled="false"
+ezplex-enabled="true" OR ezplex-enabled="false"
 
 <b><u>Optional</u></b>
 
-(1) parallax-direction="-" // By default it's set to minus. minus = y-position downwards and plus = y-position upwards <br />
-(2) parallax-speed="10" // By default it's set to 10. <br />
-(3) parallax-xpos="left" // By default it will take current x-position of background. parallax-xpos takes values in persantage, pixels and string. eg. "50%", "200px" OR "center". <br />
+(1) ezplex-direction="-" // By default it's set to minus. minus = y-position downwards and plus = y-position upwards <br />
+(2) ezplex-speed="10" // By default it's set to 10. <br />
+(3) ezplex-xpos="left" // By default it will take current x-position of background. ezplex-xpos takes values in persantage, pixels and string. eg. "50%", "200px" OR "center". <br />
 
-<b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Demo</a></b>
+<b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Parallax Demo</a></b>
 
 Any suggestions or comments are highly appreciated
 
