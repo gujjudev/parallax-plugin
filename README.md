@@ -55,7 +55,8 @@ parallax-enabled="true" OR parallax-enabled="false"
 (2) parallax-speed="10" // By default it's set to 10. <br />
 (3) parallax-xpos="left" // By default it will take current x-position of background. parallax-xpos takes values in persantage, pixels and string. eg. "50%", "200px" OR "center". <br />
 
+<b><a href="http://www.empmanagerbybhaumik.net/dev/parallax/html/" target="_blank">Working Demo</a></b>
 
 Any suggestions or comments are highly appreciated
 
-- Bhaumik Mehta
+<em><b>Bhaumik Mehta</b></em>
