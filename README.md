@@ -1,7 +1,5 @@
-parallax-plugin
+ezflex - A light-weight plugin to create parallax pages easily
 ===============
-
-<strong>A light-weight plugin to create parallax pages easily<strong>
 
 <b><u>HTML</u></b>
 
