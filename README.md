@@ -11,7 +11,7 @@ Plugin to create parallax pages easily
 
 <b><u>CSS</u></b>
 
-Following is the sample css. Change your own css as per the requirement. with the help of this plugin you can create different layers to create 3d effect. e.g Diamonds are moving up and down on the window scroll.
+Following is the sample css. Change your own css as per the requirement. With help of this plugin you can create different layers of elemets giving it absolute position to get a 3D like parallax effect. e.g Diamonds are moving up and down on the window scroll.
 
 	#parallax-1 {
 	  width: 100%;
