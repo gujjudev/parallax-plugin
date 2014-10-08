@@ -1,4 +1,4 @@
-ezflex - A light-weight plugin to create parallax pages easily
+ezplex - A light-weight plugin to create parallax pages easily
 ===============
 
 <b><u>HTML</u></b>
@@ -24,7 +24,7 @@ Following is the sample css. Change your own css as per the requirement. With he
 
 <b><u>JS</u></b>
 
-Include the <b>"ezplex"</b> reference
+Include the <em><b>ezplex</b></em> reference
 
 	<script src="js/ezplex.min.js"></script>
 	<script>
