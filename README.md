@@ -5,9 +5,11 @@ Plugin to create parallax pages easily
 
 <b><u>HTML</u></b>
 
-	<div id="parallax-1" parallax-enabled="true" parallax-direction="-" parallax-speed="5" parallax-xpos="left"></div>
-	<div id="parallax-2" parallax-enabled="true" parallax-direction="+" parallax-speed="10"></div>
-	<div id="parallax-3" parallax-enabled="true" parallax-direction="-" parallax-speed="7" parallax-xpos="50%"></div>
+Add following attributes to your element. Element could be anything. Div, Section, Block, Article anything..!!
+
+	<div id="parallax-1" ezplex-enabled="true" ezplex-direction="-" ezplex-speed="5" ezplex-xpos="left"></div>
+	<div id="parallax-2" ezplex-enabled="true" ezplex-direction="+" ezplex-speed="10"></div>
+	<div id="parallax-3" ezplex-enabled="true" ezplex-direction="-" ezplex-speed="7" ezplex-xpos="50%"></div>
 
 <b><u>CSS</u></b>
 
